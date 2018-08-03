@@ -1,0 +1,41 @@
+body{    
+    color: white;
+    background-image: linear-gradient(rgba(199, 202, 17, 0.788), rgba(16, 119, 21, 0.74), rgb(255, 255, 255));
+    height: 200px;
+}
+#Y{
+    width: 850px;
+    length: 850px;
+    float: right;
+}
+
+header{
+    font-size: 80px;
+    text-align: center;
+    
+}
+#A{
+    text-align: right;
+}
+
+#R{
+    font-size: 20px;
+}
+#Q{
+    text-size: 20px;
+
+}
+li{
+    font-size: 20px
+}
+.herolist{
+    text-align: center;
+}
+#M{
+    width: 400px;
+    length: 400px;
+    float: right;
+}
+#K{
+    float: left;
+}
